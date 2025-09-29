@@ -4,4 +4,4 @@ This repo will contain documentation of writeups of my assignments and expiremen
 ## Table of Contents
 
 ### 1 Linux Command Line & Security Basics
-s
+- [Writeup](Linux Command Line & Security Basics.md)
