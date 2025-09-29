@@ -3,5 +3,5 @@ This repo will contain documentation of writeups of my assignments and expiremen
 
 ## Table of Contents
 
-### 1 Linux Command Line & Security Basics
+### 1. Linux Command Line & Security Basics
 - [Writeup: Linux Command Line & Security Basics](Linux%20Command%20Line%20&%20Security%20Basics.pdf)
