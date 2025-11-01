@@ -1,6 +1,8 @@
 # Cybersecurity Virtual Machine Home Lab
 This repo will contain documentation of writeups of my assignments and experiments done for Cybersecurity (CPS493) at SUNY New Paltz. 
 
+See also: [BenjaminFisher1/writeups-tryhackme-hackthebox](https://github.com/BenjaminFisher1/writeups-tryhackme-hackthebox):a collection of TryHackMe and HackTheBox walkthroughs and writeups for hands-on practice and reference.
+
 ## Table of Contents
 
 ### 1. Linux Command Line & Security Basics
