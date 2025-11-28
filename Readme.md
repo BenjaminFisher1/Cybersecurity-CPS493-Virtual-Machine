@@ -28,7 +28,6 @@ See also: [BenjaminFisher1/writeups-tryhackme-hackthebox](https://github.com/Ben
         - Crafting malicious requests and exploit HTML pages
         - Session management, cookies, and SameSite behavior
         - Anti-CSRF tokens: implementations and common pitfalls
-        - Practical lab: exploiting a vulnerable web app step-by-step
         - Mitigations, secure coding patterns, and detection strategies
 ## What to Expect
 This repository is a hands-on, action-oriented lab environment for mastering practical cybersecurity on a virtual machine. Each writeup delivers clear objectives, step-by-step procedures, exact commands, and concise analysis so you can reproduce and learn from every exercise.
